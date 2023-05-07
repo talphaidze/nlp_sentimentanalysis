@@ -1,3 +1,4 @@
+#nlp_sentimentanalysis
 Our main goal of this research is to investigate the correlation between sentiments of the tweets with its popularity.
 
 For this project we have used two different datasets. One is labeled (0 and 1 for positive and negative sentiments respectively) dataset and the other one is unlabeled dataset. It is not possible to find a single dataset with labels and the features we needed for our investogation therefore we decided to take this approach. 
